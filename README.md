@@ -16,3 +16,6 @@
 
 
 Un simple repo con el fin de entrenar con las distintas features de git, contenido irrelevante.
+
+
+[![Join the chat at https://gitter.im/juanjepl/cacharreo-git](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/juanjepl/cacharreo-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
